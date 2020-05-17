@@ -1,7 +1,7 @@
 
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-transportadora/blob/master/images/database-image.png ">
+<img src="https://github.com/MatheusFranciscone/projeto-calculadora/blob/master/ativ-calculadora/calculator-icon.png">
 </p>
 
-# projeto-calculadora
+# Projeto Calculadora
  calc
