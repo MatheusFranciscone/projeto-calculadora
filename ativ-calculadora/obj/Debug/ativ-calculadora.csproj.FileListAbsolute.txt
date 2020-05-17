@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\bin\Debug\ativ-calculadora.exe.config
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\bin\Debug\ativ-calculadora.exe
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\bin\Debug\ativ-calculadora.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\obj\Debug\ativ-calculadora.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\obj\Debug\ativ_calculadora.Properties.Resources.resources
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\obj\Debug\ativ-calculadora.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\obj\Debug\ativ-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\obj\Debug\ativ-calculadora.exe
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\obj\Debug\ativ-calculadora.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\ativ-calculadora\obj\Debug\ativ_calculadora.frm_calculadora.resources
